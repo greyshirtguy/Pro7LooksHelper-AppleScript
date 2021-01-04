@@ -1,6 +1,8 @@
 # Pro7LooksHelper-AppleScript
 An AppleScript "App" that adds a Pro7 Looks-Menu to your MacOS menu-bar, so you can can always see the current look (and quickly choose a new look).
 
+This is a working "proof of concept". I probably "should have" used a different technology like Electron or even a native app in XCode - but I wanted something quick and fast, as I live in hope that RV will add topmost display of current look as a new feature in Pro7 itself one day soon-ish.
+
 ![Screenshot](Pro7LooksHelper%20Menu%20Demo.jpg)
 
 
