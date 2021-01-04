@@ -1,5 +1,5 @@
 # Pro7LooksHelper-AppleScript
-An AppleScript "App" that adds a Looks menu to your MacOS menu-bar.
+An AppleScript "App" that adds a Pro7 Looks-Menu to your MacOS menu-bar, so you can can always see the current look (and quickly choose a new look).
 
 ![Screenshot](Pro7LooksHelper%20Menu%20Demo.jpg)
 
