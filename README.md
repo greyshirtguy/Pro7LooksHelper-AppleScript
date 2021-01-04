@@ -1,6 +1,9 @@
 # Pro7LooksHelper-AppleScript
 An AppleScript "App" that adds a Looks menu to your MacOS menu-bar.
 
+![Screenshot](Pro7LooksHelper%20Menu%20Demo.jpg)
+
+
 1. Open Apple "Script Editor"
 2. Make a new empty script.
 3. Paste code from Pro7LooksHelper.applescript
