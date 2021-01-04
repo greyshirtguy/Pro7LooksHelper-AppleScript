@@ -8,7 +8,7 @@ This is a working "proof of concept". I probably "should have" used a different 
 
 1. Open Apple "Script Editor"
 2. Make a new empty script.
-3. Paste code from Pro7LooksHelper.applescript
+3. Paste code from Pro7LooksHelper.applescript (or download and open in Apple Script Editor)
 4. Save as "Pro7LooksHelper.app" using File Format: Application (with "Stay open after run handler" option checked)
 5. Right-click the application and select Open
 6. Follow prompts to allow "Pro7LooksHelper.app" to control your computer in "Accessibility: Privacy" settings
